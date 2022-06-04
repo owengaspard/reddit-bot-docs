@@ -7,6 +7,7 @@ Once you open the notepad file, you should see:\
 `REDDIT_CLIENT_SECRET = ""`\
 `REDDIT_USERNAME = ""`\
 `REDDIT_PASSWORD = ""`\
+`REDDIT_2FA="" = ""`\ The valid options are "yes" "no" all lowercase.
 ``So the next we are going to be doing is the most essential part of this part. Avoid any errors here!
 
 Head over to the apps page under the preferences page, [_https://www.reddit.com/prefs/apps_](https://www.reddit.com/prefs/apps). Once you are here, you should scroll down and see a button saying `create another app` (could be different if your first app), click it. Once you click it, you should see:
