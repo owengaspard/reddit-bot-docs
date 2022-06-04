@@ -1,5 +1,5 @@
 ---
-description: Reddit bot, 100% free and open-source!
+description: Documentation for helping you install and use the Reddit Bot!
 ---
 
 # The Reddit Bot?
