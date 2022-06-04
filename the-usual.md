@@ -4,7 +4,7 @@ Now, we will be executing our command for the final time.
 
 Type `python3 main.py` (or `python main.py`) in your terminal (make sure it is the correct path).
 
-![](<.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/image (8) (1).png>)
 
 You should see something like this. This indicates that you have done everything correctly.
 
