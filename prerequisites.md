@@ -15,7 +15,7 @@ description: >-
 
 While installing Python, you will see a checkbox at the bottom which says _Add Python 3.10.x to PATH._ **Make sure you check this box, it is extremely crucial!**
 
-![](<.gitbook/assets/image (2).png>) ![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (2) (1).png>) ![](<.gitbook/assets/image (4).png>)
 
 Once you have installed Python & Node.js, launch a command prompt window (preferably as an administrator) and type `pip`, if you see something like this, you have done the python installation correctly:&#x20;
 
@@ -23,7 +23,7 @@ Once you have installed Python & Node.js, launch a command prompt window (prefer
 
 Just to **double-check** your python version, type `python --version` on your command prompt. You should get something like this (the version can be different):
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7) (1).png>)
 
 Lastly, type `node` on your terminal to make sure node.js is installed correctly. You should see something like this:
 

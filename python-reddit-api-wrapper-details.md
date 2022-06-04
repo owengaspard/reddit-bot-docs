@@ -11,7 +11,7 @@ Once you open the notepad file, you should see:\
 
 Head over to the apps page under the preferences page, [_https://www.reddit.com/prefs/apps_](https://www.reddit.com/prefs/apps). Once you are here, you should scroll down and see a button saying `create another app` (could be different if your first app), click it. Once you click it, you should see:
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (1).png>)
 
 Name: You can put in any name, for example: `automated-bot`\
 ``Radio Button: Where it shows you the three radio buttons, pick the third one, that is the **script** one. \
