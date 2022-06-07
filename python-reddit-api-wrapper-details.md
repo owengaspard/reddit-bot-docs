@@ -7,7 +7,11 @@ Once you open the notepad file, you should see:\
 `REDDIT_CLIENT_SECRET = ""`\
 `REDDIT_USERNAME = ""`\
 `REDDIT_PASSWORD = ""`\
-`REDDIT_2FA=""` The valid options are "yes" "no" all lowercase.&#x20;
+`REDDIT_2FA=""` The valid options are "yes" "no" all lowercase. \
+`RANDOM_THREAD = ""`  "yes" or "no"\
+`THEME = ""` "dark" or "light"\
+`SUBREDDIT = "AskReddit"` \
+`OPACITY = "1"` 0 -> 1
 
 So the next we are going to be doing is the most essential part of this part. Avoid any errors here!
 
