@@ -7,9 +7,9 @@ Once you open the notepad file, you should see:\
 `REDDIT_CLIENT_SECRET = ""`\
 `REDDIT_USERNAME = ""`\
 `REDDIT_PASSWORD = ""`\
-`REDDIT_2FA=""` The valid options are "yes" "no" all lowercase. \
-`RANDOM_THREAD = ""`  "yes" or "no"\
-`THEME = ""` "dark" or "light"\
+`REDDIT_2FA="no"` The valid options are "yes" "no" all lowercase. \
+`RANDOM_THREAD = "yes"`  "yes" or "no"\
+`THEME = "light"` "dark" or "light"\
 `SUBREDDIT = "AskReddit"` \
 `OPACITY = "1"` 0 -> 1
 
