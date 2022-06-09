@@ -13,7 +13,7 @@ Once you open the notepad file, you should see:\
 `SUBREDDIT = "AskReddit"` \
 `OPACITY = "1"` 0 -> 1
 
-So the next we are going to be doing is the most essential part of this part. Avoid any errors here!
+The next step will be the most essential in this entire section. Avoid any errors here!
 
 Head over to the apps page under the preferences page, [_https://www.reddit.com/prefs/apps_](https://www.reddit.com/prefs/apps). Once you are here, you should scroll down and see a button saying `create another app` (could be different if your first app), click it. Once you click it, you should see:
 
