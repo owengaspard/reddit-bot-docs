@@ -23,6 +23,22 @@ First, go to the folders where the code is stored.
 
 If you downloaded the zip:
 
+Go to the downloads folder:
+
 <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="download the zip" width="600" heigth="600">
+
+Then, click finder -> services -> new terminal at folder:
+
+<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="opening terminal" width="600" heigth="600">
+
+Once the terminal is opend, it shloud look something like this:
+
+<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="terminal opend" width="600" heigth="600">
+
+Type in this command (or just copy it) `pip3 install -r requirements.txt`:
+
+<img src=".gitbook/assets/image (2) (1) (1).png" alt="command entered" width="600" heigth="600">
+
+And this shloud appear on the screen!
 
 ![](<.gitbook/assets/gif (1).gif>)
