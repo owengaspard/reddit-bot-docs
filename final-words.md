@@ -8,3 +8,8 @@ LukaHietala (Pix.#0001) - [https://github.com/LukaHietala](https://github.com/Lu
 Freebiell - [https://github.com/FreebieII](https://github.com/FreebieII)\
 CallumIO - [https://github.com/CallumIO](https://github.com/CallumIO)
 
+Original docmuentation:
+HarryDaDev (hrvyy#9677) - [https://github.com/ImmaHarry](https://github.com/ImmaHarry)\
+Improved by:
+micziz - [https://github.com/micziz](https://github.com/micziz)
+

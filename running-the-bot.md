@@ -1,6 +1,6 @@
-# The usual
+# Running the bot
 
-Now, we will be executing our command for the final time.
+Now, we will be running the bot.
 
 Type `python3 main.py` (or `python main.py`) in your terminal (make sure it is the correct path).
 
@@ -12,4 +12,4 @@ Now each and every time you wish to produce an automated video like this one, al
 
 Somethings to keep in mind are that the background video (parkour one) is a hour long clip, please do not delete this. The bot essentially picks two random points in the clip that is 60 seconds long and pastes it in as the background of the video.&#x20;
 
-Once your video is processed, you should be able to view it!&#x20;
+Once your video is processed, you should be able to view it!&#x20; To view it check out [this page](viewing-the-video.md)

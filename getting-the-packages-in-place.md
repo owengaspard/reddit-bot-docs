@@ -42,3 +42,30 @@ Type in this command (or just copy it) `pip3 install -r requirements.txt`:
 And this shloud appear on the screen!
 
 ![](<.gitbook/assets/gif (1).gif>)
+
+**If you cloned the repo**:
+
+In the place where you initally cloned the repo, type this command:
+
+```
+cd redditvideomakerbot
+```
+
+Then install the 
+
+```
+pip3 install -r requirements.txt
+```
+
+<img src=".gitbook/assets/image (2) (1) (1).png" alt="command entered" width="600" heigth="600">
+
+And this shloud appear on the screen!
+
+![](<.gitbook/assets/gif (1).gif>)
+
+
+## Linux
+
+First go to the folders where the code is stored.
+
+If you downloaded the zip:
