@@ -5,12 +5,11 @@ If you still face any issues, try reinstalling Python and the source files and p
 Bot Developers:
 
 * [Lewis Menelaws](https://github.com/elebumm)
+* [CallumIO](https://github.com/CallumIO)
+* [Freebiell](https://github.com/FreebieII)
 
 Documentation:
 
 * [HarryDaDev](https://github.com/ImmaHarry) (`hrvyy#9677`)
 * [LukaHietala](https://github.com/LukaHietala) (`Pix.#0001`)
-* [Freebiell](https://github.com/FreebieII)
-* [CallumIO](https://github.com/CallumIO)
 * [micziz](https://github.com/micziz)
-
