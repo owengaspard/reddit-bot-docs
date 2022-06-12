@@ -25,9 +25,11 @@ Head over to the _apps_ page under the _prefs_ page: [https://www.reddit.com/pre
 **About URL**: link any webpage like `https://google.com`.\
 **Redirect URI**: link any webpage like `https://google.com`.
 
-Great, you are done here, now just create the app!
+Great, you created the app! now you need to fill in the valules
+![Image](https://user-images.githubusercontent.com/66544866/173240642-af00257e-4414-4a57-a3be-24443ee7c29f.png)
 
-Copy the text highlighted blue, that is your `REDDIT_CLIENT_ID`, the text highlighted orange is your `REDDIT_CLIENT_SECRET` (**DO NOT SHARE THIS WITH ANYONE**).
+
+Copy the text under "personal use script", that is your `REDDIT_CLIENT_ID`, the text right next to SECRET is your `REDDIT_CLIENT_SECRET` (**DO NOT SHARE THIS WITH ANYONE**).
 
 The text where it says _developers_ is your `REDDIT_USERNAME` and `REDDIT_PASSWORD` is your Reddit account's password. **Your information is not logged**.
 
