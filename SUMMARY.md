@@ -1,12 +1,12 @@
 # Table of contents
 
 * [The Reddit Bot?](README.md)
-* [Downloading the Files](downloading-the-files.md)
+* [Downloading the Bot](downloading-the-bot.md)
 * [Prerequisites](prerequisites.md)
-* [Python Reddit API Wrapper details](python-reddit-api-wrapper-details.md)
+* [Get your reddit key](python-reddit-api-wrapper-details.md)
 * [Getting the packages in place](getting-the-packages-in-place.md)
-* [Installing playwright](python3-main.py.md)
-* [Running the bot](the-usual.md)
+* [Installing playwright](installing-playwritgh.md)
+* [Running the bot](running-the-bot.md)
 * [Viewing the video](viewing-the-video.md)
 * [Final Words](final-words.md)
 * [Errors](errors/README.md)
