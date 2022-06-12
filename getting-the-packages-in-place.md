@@ -20,7 +20,7 @@ Once done, you should be seeing something like this:
 
 **If you cloned the repo**:
 
-In the place where you initally cloned the repo, type this command:
+In the place where you initially cloned the repo, type this command:
 
 ```
 cd redditvideomakerbot
@@ -41,27 +41,27 @@ First, go to the folders where the code is stored.
 
 Go to the downloads folder:
 
-<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="download the zip" width="600" heigth="600">
+<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="download the zip" width="600">
 
 Then, click finder -> services -> new terminal at folder:
 
-<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="opening terminal" width="600" heigth="600">
+<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="opening terminal" width="600">
 
-Once the terminal is opend, it shloud look something like this:
+Once the terminal is opened, it should look something like this:
 
-<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="terminal opend" width="600" heigth="600">
+<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="terminal opened" width="600">
 
 Type in this command (or just copy it) `pip3 install -r requirements.txt`:
 
-<img src=".gitbook/assets/image (2) (1) (1).png" alt="command entered" width="600" heigth="600">
+<img src=".gitbook/assets/image (2) (1) (1).png" alt="command entered" width="600">
 
-And this shloud appear on the screen!
+And this should appear on the screen!
 
 ![](<.gitbook/assets/gif (1).gif>)
 
 **If you cloned the repo**:
 
-In the place where you initally cloned the repo, type this command:
+In the place where you initially cloned the repo, type this command:
 
 ```
 cd redditvideomakerbot
@@ -73,9 +73,9 @@ Then install the
 pip3 install -r requirements.txt
 ```
 
-<img src=".gitbook/assets/image (2) (1) (1).png" alt="command entered" width="600" heigth="600">
+<img src=".gitbook/assets/image (2) (1) (1).png" alt="command entered" width="600">
 
-And this shloud appear on the screen!
+And this should appear on the screen!
 
 ![](<.gitbook/assets/gif (1).gif>)
 
@@ -86,7 +86,7 @@ First go to the folders where the code is stored.
 
 **If you downloaded the zip**:
 
-Go to the downloads folder, then rigth click on the zip file and click "Open folder in terminal":
+Go to the downloads folder, then right click on the zip file and click "Open folder in terminal":
 
 Then, type this command:
 
@@ -98,7 +98,7 @@ And everything should be installed!
 
 **If you cloned the repo!**:
 
-In the place where you initally cloned the repo, type this command:
+In the place where you initially cloned the repo, type this command:
 
 ```
 cd redditvideomakerbot
