@@ -8,15 +8,15 @@ After installing the requirements, run the following command in the terminal:
 
 `playwright install`
 
-It shloud look like this:
+It should look like this:
 
-<img src=".gitbook/assets/image (2) (1) (1) (1).png" alt="command entered" width="600" heigth="600">
+<img src=".gitbook/assets/image (2) (1) (1) (1).png" alt="command entered" width="600">
 
 then after that is done, (it might take some time) run this command in the terminal:
 
 `playwright install deps`
 
-It shloud look like this:
+It should look like this:
 
-<img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt="command entered" width="600" heigth="600">
+<img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt="command entered" width="600">
 
