@@ -3,7 +3,9 @@
 
 ## Windows
 
-For this part, we will head over to the folder where all the files are stored. Once you are there, you should see a bar at the top showing the directory's path. Double click that:
+**If you download the zip**
+ 
+Head over to the folder where all the files are stored. Once you are there, you should see a bar at the top showing the directory's path. Double click that:
 
 ![](<.gitbook/assets/image (8) (1) (1).png>)
 
@@ -16,12 +18,26 @@ Once done, you should be seeing something like this:
 
 ![](<.gitbook/assets/image (1).png>)
 
+**If you cloned the repo**:
+
+In the place where you initally cloned the repo, type this command:
+
+```
+cd redditvideomakerbot
+```
+
+You can now run:
+
+```
+pip3 install -r requirements.txt
+```
+
 
 ## MacOS
 
 First, go to the folders where the code is stored.
 
-If you downloaded the zip:
+**If you downloaded the zip**:
 
 Go to the downloads folder:
 
@@ -68,4 +84,28 @@ And this shloud appear on the screen!
 
 First go to the folders where the code is stored.
 
-If you downloaded the zip:
+**If you downloaded the zip**:
+
+Go to the downloads folder, then rigth click on the zip file and click "Open folder in terminal":
+
+Then, type this command:
+
+```
+pip3 install -r requirements.txt
+```
+
+And everything should be installed!
+
+**If you cloned the repo!**:
+
+In the place where you initally cloned the repo, type this command:
+
+```
+cd redditvideomakerbot
+```
+
+You can now run:
+
+```
+pip3 install -r requirements.txt
+```
