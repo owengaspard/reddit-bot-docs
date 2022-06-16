@@ -61,14 +61,14 @@ Then, click the `Install` button until the installation is complete.
 
 Then, to check if everything is working, run the following command:
 
-  
+
 ```
 python3 --version
 ```
 
 If it returns the following output:
 
-    
+
 ```
 Python 3.6.0
 ```
@@ -89,7 +89,7 @@ Python can be installed by using your package manager (e.g. [apt-get](https://ww
 
 ## NodeJS
 
-NodeJS is a JavaScript runtime environment that is used to execute JavaScript code. It is needed to use playwritgh.
+NodeJS is a JavaScript runtime environment that is used to execute JavaScript code. It is needed to use playwright.
 
 ### Installing nodejs on Windows
 
@@ -118,8 +118,8 @@ You can also install nodejs on MacOS by using the [Homebrew](https://brew.sh/) p
 
 After installing Homebrew, run the following command:
 
-    
-``` 
+
+```
 brew install nodejs
 ```
 

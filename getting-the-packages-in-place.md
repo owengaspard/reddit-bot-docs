@@ -4,7 +4,7 @@
 ## Windows
 
 **If you download the zip**
- 
+
 Head over to the folder where all the files are stored. Once you are there, you should see a bar at the top showing the directory's path. Double click that:
 
 ![](<.gitbook/assets/image (8) (1) (1).png>)
@@ -32,6 +32,20 @@ You can now run:
 pip3 install -r requirements.txt
 ```
 
+<details><summary>If error, panic and click on this</summary>
+
+Try:
+`py -m pip install -r requirements.txt`
+
+If that doesn't work,
+
+`python -m pip install -r requirements.txt`
+If that doesn't work,
+
+`python3 -m pip install -r requirements.txt`
+If that doesn't work, INSTALL PYTHON
+
+</details>
 
 ## MacOS
 
@@ -52,6 +66,19 @@ Once the terminal is opened, it should look something like this:
 <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="terminal opened" width="600">
 
 Type in this command (or just copy it) `pip3 install -r requirements.txt`:
+<details><summary>If error, panic and click on this</summary>
+
+Try:
+
+`python -m pip install -r requirements.txt`
+If that doesn't work,
+
+`python3 -m pip install -r requirements.txt`
+If that doesn't work,
+
+INSTALL PYTHON
+
+</details>
 
 <img src=".gitbook/assets/image (2) (1) (1).png" alt="command entered" width="600">
 
@@ -67,11 +94,24 @@ In the place where you initially cloned the repo, type this command:
 cd redditvideomakerbot
 ```
 
-Then install the 
+Then install the
 
 ```
 pip3 install -r requirements.txt
 ```
+<details><summary>If error, panic and click on this</summary>
+
+Try:
+
+`python -m pip install -r requirements.txt`
+If that doesn't work,
+
+`python3 -m pip install -r requirements.txt`
+If that doesn't work,
+
+INSTALL PYTHON
+
+</details>
 
 <img src=".gitbook/assets/image (2) (1) (1).png" alt="command entered" width="600">
 
@@ -109,3 +149,16 @@ You can now run:
 ```
 pip3 install -r requirements.txt
 ```
+<details><summary>If error, panic and click on this</summary>
+
+Try:
+
+`python -m pip install -r requirements.txt`
+If that doesn't work,
+
+`python3 -m pip install -r requirements.txt`
+If that doesn't work,
+
+INSTALL PYTHON
+
+</details>

@@ -5,7 +5,7 @@
 * [Prerequisites](prerequisites.md)
 * [Get your reddit key](python-reddit-api-wrapper-details.md)
 * [Getting the packages in place](getting-the-packages-in-place.md)
-* [Installing playwright](installing-playwritgh.md)
+* [Installing playwright](installing-playwright.md)
 * [Running the bot](running-the-bot.md)
 * [Viewing the video](viewing-the-video.md)
 * [Final Words](final-words.md)

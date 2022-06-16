@@ -6,10 +6,15 @@ Bot Developers:
 
 * [Lewis Menelaws](https://github.com/elebumm)
 * [CallumIO](https://github.com/CallumIO)
-* [Freebiell](https://github.com/FreebieII)
+* [JasonLovesDoggo](https://github.com/JasonLovesDoggo)
+* [CordlessCoder](https://github.com/CordlessCoder)
 
 Documentation:
 
 * [HarryDaDev](https://github.com/ImmaHarry) (`hrvyy#9677`)
 * [LukaHietala](https://github.com/LukaHietala) (`Pix.#0001`)
 * [micziz](https://github.com/micziz)
+* [CordlessCoder](https://github.com/CordlessCoder) (`Verq#2338`)
+
+Grammar ~~nazi~~ **lover**):
+* [Freebiell](https://github.com/FreebieII)
