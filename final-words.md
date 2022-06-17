@@ -8,6 +8,7 @@ Bot Developers:
 * [CallumIO](https://github.com/CallumIO)
 * [JasonLovesDoggo](https://github.com/JasonLovesDoggo)
 * [CordlessCoder](https://github.com/CordlessCoder)
+* [Freebiell](https://github.com/FreebieII)
 
 Documentation:
 
@@ -16,5 +17,3 @@ Documentation:
 * [micziz](https://github.com/micziz)
 * [CordlessCoder](https://github.com/CordlessCoder) (`Verq#2338`)
 
-Grammar ~~nazi~~ **lover**):
-* [Freebiell](https://github.com/FreebieII)
