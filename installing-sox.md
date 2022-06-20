@@ -11,6 +11,8 @@ Open Windows Terminal or PowerShell and run `winget install sox`. Afterwards, re
 2. Add SoX to your PATH. Instructions are below.
 3. Restart your terminal, and you should be done.
 
+![Windows Environment Variables - Credit to computerhope.com](https://www.computerhope.com/issues/pictures/win10-envirvariables.jpg)
+
 ### Adding SoX to PATH
 1. Search for `Environment Variables` in Windows Search, and open it.
 2. Click the button at the bottom to edit your environment vairables.
