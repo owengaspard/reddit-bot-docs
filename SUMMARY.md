@@ -5,6 +5,7 @@
 * [Prerequisites](prerequisites.md)
 * [Get your reddit key](python-reddit-api-wrapper-details.md)
 * [Getting the packages in place](getting-the-packages-in-place.md)
+* [Installing SoX](installing-sox.md)
 * [Installing playwright](installing-playwright.md)
 * [Running the bot](running-the-bot.md)
 * [Viewing the video](viewing-the-video.md)
@@ -14,4 +15,3 @@
   * [Error #2](errors/error-2.md)
   * [Error #3](errors/error-3.md)
   * [Error #4](errors/error-4.md)
-* [Installing SoX](installing-sox.md)
