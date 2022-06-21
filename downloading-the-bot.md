@@ -24,7 +24,7 @@ Using git:
 git clone https://github.com/elebumm/RedditVideoMakerBot.git
 ```
 
-Using the github cli:
+Using the GitHub CLI:
 
 ```bash
 gh repo clone elebumm/RedditVideoMakerBot
@@ -36,12 +36,12 @@ Use **Github Desktop**
 
 <img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" width="300" heigth="300" alt="GD">
 
-The repo will appear in your github desktop app.
+The repo will appear in your GitHub desktop app.
 
 or by **downloading the zip**
 
 ![](<.gitbook/assets/image (1) (1).png>)
 
-The download shloud start (on firefox and similar you may need to confirm the download) and the files shloud be placed in your preferd location.
+The download should start (on Firefox and similar you may need to confirm the download) and the files should be placed in your preferred location.
 
 Once done, unzip the files.
