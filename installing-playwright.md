@@ -1,5 +1,5 @@
 ---
-description: The playwright is an API to automate browsers like Chrome, and Firefox. etc...
+description: Playwright is an API to automate browsers like Chrome, and Firefox. etc...
 ---
 
 # Installing playwright
